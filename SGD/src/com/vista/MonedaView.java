@@ -1,5 +1,6 @@
 package com.vista;
 11111
+2222
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.server.VaadinRequest;
