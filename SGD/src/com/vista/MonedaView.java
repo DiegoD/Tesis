@@ -1,5 +1,5 @@
 package com.vista;
-
+111
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.server.VaadinRequest;
@@ -20,7 +20,6 @@ public class MonedaView extends Panel implements View{
     final TextField nomMoneda = new TextField();
     final Button btnIngresar = new Button("Ingresar");
 	
-    moneda.github.
 	public MonedaView()
     {
         this.codMoneda.setCaption("Codigo");
