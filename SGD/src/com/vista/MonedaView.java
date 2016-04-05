@@ -1,6 +1,4 @@
 package com.vista;
-11111
-2222
 import com.vaadin.navigator.View;
 import com.vaadin.navigator.ViewChangeListener.ViewChangeEvent;
 import com.vaadin.server.VaadinRequest;
@@ -12,7 +10,7 @@ import com.vaadin.ui.TextField;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
-
+/*TEST SUBVERSION*/
 public class MonedaView extends Panel implements View{
 	VerticalLayout layout = new VerticalLayout();
 
